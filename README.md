@@ -4,7 +4,7 @@ _PhD Student | Software Engineer | Researcher_
 ---
 
 ## 👨‍💻 About Me
-Hi! 👋 I'm Daniel. I'm a first-year PhD student in CS at the University of Houston, advised by Amin Alipour and Michael Hilton. I do research in Computing Education (you can follow me on Substack!), with a particular focus on Programming Education, AI for Computing Education and Human-AI Interaction.
+Hi! 👋 I'm Daniel. I'm a second-year PhD student in CS at the University of Houston, advised by Amin Alipour and Michael Hilton. I do research in Computing Education (you can follow me on Substack!), with a particular focus on Programming Education, AI for Computing Education and Human-AI Interaction.
 
 Before beginning graduate school, I worked for 10 years in various industry positions (my LinkedIn profile has more details about the "industry side" of my life). I'm also passionate about outreach: blogs, podcasts, newsletters, social media, and teaching, of course.
 
