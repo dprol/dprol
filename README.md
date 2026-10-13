@@ -11,7 +11,7 @@ Before beginning graduate school, I worked for 10 years in various industry posi
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn: Daniel Prol](https://www.linkedin.com/in/dannyprol)
+- [LinkedIn](https://www.linkedin.com/in/dannyprol)
 - [Website](https://www.danielprol.com/)
 
 ---
